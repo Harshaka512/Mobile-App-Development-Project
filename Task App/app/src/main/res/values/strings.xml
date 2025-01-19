@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NoteTaskApp</string>
+    <string name="timer_head">Timer</string>
+    <string name="_00_00_00">00:00:00</string>
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+    <string name="reset">Reset</string>
+    <string name="timer">Timer</string>
+    <string name="btnAddItem">Add Task</string>
+    <string name="tvTitle">My TaskMemo List</string>
+    <string name="addwidget">Add Widgets</string>
+    <string name="save_task">Save Task</string>
+</resources>
